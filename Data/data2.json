@@ -1,0 +1,277 @@
+{"content": "Andhra Pradesh ", "annotation": [{"label": ["state"], "points": [{"text": "Andhra Pradesh", "start": 0, "end": 13}]}]}
+{"content": "Arunachal Pradesh ", "annotation": [{"label": ["state"], "points": [{"text": "Arunachal Pradesh", "start": 0, "end": 16}]}]}
+{"content": "Assam ", "annotation": [{"label": ["state"], "points": [{"text": "Assam", "start": 0, "end": 4}]}]}
+{"content": "Bihar ", "annotation": [{"label": ["state"], "points": [{"text": "Bihar", "start": 0, "end": 4}]}]}
+{"content": "Chhattisgarh ", "annotation": [{"label": ["state"], "points": [{"text": "Chhattisgarh", "start": 0, "end": 11}]}]}
+{"content": "Goa ", "annotation": [{"label": ["state"], "points": [{"text": "Goa", "start": 0, "end": 2}]}]}
+{"content": "Gujarat ", "annotation": [{"label": ["state"], "points": [{"text": "Gujarat", "start": 0, "end": 6}]}]}
+{"content": "Haryana ", "annotation": [{"label": ["state"], "points": [{"text": "Haryana", "start": 0, "end": 6}]}]}
+{"content": "Himachal Pradesh ", "annotation": [{"label": ["state"], "points": [{"text": "Himachal Pradesh", "start": 0, "end": 15}]}]}
+{"content": "Jammu and Kashmir ", "annotation": [{"label": ["state"], "points": [{"text": "Jammu and Kashmir", "start": 0, "end": 16}]}]}
+{"content": "Jharkhand ", "annotation": [{"label": ["state"], "points": [{"text": "Jharkhand", "start": 0, "end": 8}]}]}
+{"content": "Karnataka ", "annotation": [{"label": ["state"], "points": [{"text": "Karnataka", "start": 0, "end": 8}]}]}
+{"content": "Kerala ", "annotation": [{"label": ["state"], "points": [{"text": "Kerala", "start": 0, "end": 5}]}]}
+{"content": "Madhya Pradesh ", "annotation": [{"label": ["state"], "points": [{"text": "Madhya Pradesh", "start": 0, "end": 13}]}]}
+{"content": "Maharashtra ", "annotation": [{"label": ["state"], "points": [{"text": "Maharashtra", "start": 0, "end": 10}]}]}
+{"content": "Manipur ", "annotation": [{"label": ["state"], "points": [{"text": "Manipur", "start": 0, "end": 6}]}]}
+{"content": "Meghalaya ", "annotation": [{"label": ["state"], "points": [{"text": "Meghalaya", "start": 0, "end": 8}]}]}
+{"content": "Mizoram ", "annotation": [{"label": ["state"], "points": [{"text": "Mizoram", "start": 0, "end": 6}]}]}
+{"content": "Nagaland ", "annotation": [{"label": ["state"], "points": [{"text": "Nagaland", "start": 0, "end": 7}]}]}
+{"content": "Odisha ", "annotation": [{"label": ["state"], "points": [{"text": "Odisha", "start": 0, "end": 5}]}]}
+{"content": "Punjab ", "annotation": [{"label": ["state"], "points": [{"text": "Punjab", "start": 0, "end": 5}]}]}
+{"content": "Rajasthan  ", "annotation": [{"label": ["state"], "points": [{"text": "Rajasthan ", "start": 0, "end": 9}]}]}
+{"content": "Sikkim  ", "annotation": [{"label": ["state"], "points": [{"text": "Sikkim ", "start": 0, "end": 6}]}]}
+{"content": "Tamil Nadu  ", "annotation": [{"label": ["state"], "points": [{"text": "Tamil Nadu ", "start": 0, "end": 10}]}]}
+{"content": "Telangana  ", "annotation": [{"label": ["state"], "points": [{"text": "Telangana ", "start": 0, "end": 9}]}]}
+{"content": "Tripura ", "annotation": [{"label": ["state"], "points": [{"text": "Tripura", "start": 0, "end": 6}]}]}
+{"content": "Uttar Pradesh ", "annotation": [{"label": ["state"], "points": [{"text": "Uttar Pradesh", "start": 0, "end": 12}]}]}
+{"content": "Uttarakhand  ", "annotation": [{"label": ["state"], "points": [{"text": "Uttarakhand ", "start": 0, "end": 11}]}]}
+{"content": "West Bengal  ", "annotation": [{"label": ["state"], "points": [{"text": "West Bengal ", "start": 0, "end": 11}]}]}
+{"content": "Andaman and Nicobar Islands ", "annotation": [{"label": ["state"], "points": [{"text": "Andaman and Nicobar Islands", "start": 0, "end": 26}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["state"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Dadar and Nagar Haveli ", "annotation": [{"label": ["state"], "points": [{"text": "Dadar and Nagar Haveli", "start": 0, "end": 21}]}]}
+{"content": "Daman and Diu ", "annotation": [{"label": ["state"], "points": [{"text": "Daman and Diu", "start": 0, "end": 12}]}]}
+{"content": "Delhi  ", "annotation": [{"label": ["state"], "points": [{"text": "Delhi ", "start": 0, "end": 5}]}]}
+{"content": "Lakshadweep  ", "annotation": [{"label": ["state"], "points": [{"text": "Lakshadweep ", "start": 0, "end": 11}]}]}
+{"content": "Puducherry ", "annotation": [{"label": ["state"], "points": [{"text": "Puducherry", "start": 0, "end": 9}]}]}
+{"content": "Bengaluru ", "annotation": [{"label": ["city"], "points": [{"text": "Bengaluru", "start": 0, "end": 8}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Mumbai", "start": 0, "end": 5}]}]}
+{"content": "Imphal ", "annotation": [{"label": ["city"], "points": [{"text": "Imphal", "start": 0, "end": 5}]}]}
+{"content": "Shillong ", "annotation": [{"label": ["city"], "points": [{"text": "Shillong", "start": 0, "end": 7}]}]}
+{"content": "Aizawl ", "annotation": [{"label": ["city"], "points": [{"text": "Aizawl", "start": 0, "end": 5}]}]}
+{"content": "Kohima ", "annotation": [{"label": ["city"], "points": [{"text": "Kohima", "start": 0, "end": 5}]}]}
+{"content": "Bhubaneswar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhubaneswar", "start": 0, "end": 10}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Gangtok ", "annotation": [{"label": ["city"], "points": [{"text": "Gangtok", "start": 0, "end": 6}]}]}
+{"content": "Chennai ", "annotation": [{"label": ["city"], "points": [{"text": "Chennai", "start": 0, "end": 6}]}]}
+{"content": "Hyderabad ", "annotation": [{"label": ["city"], "points": [{"text": "Hyderabad", "start": 0, "end": 8}]}]}
+{"content": "Agartala ", "annotation": [{"label": ["city"], "points": [{"text": "Agartala", "start": 0, "end": 7}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Dehradun ", "annotation": [{"label": ["city"], "points": [{"text": "Dehradun", "start": 0, "end": 7}]}]}
+{"content": "Kolkata ", "annotation": [{"label": ["city"], "points": [{"text": "Kolkata", "start": 0, "end": 6}]}]}
+{"content": "Port Blair ", "annotation": [{"label": ["city"], "points": [{"text": "Port Blair", "start": 0, "end": 9}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Silvassa ", "annotation": [{"label": ["city"], "points": [{"text": "Silvassa", "start": 0, "end": 7}]}]}
+{"content": "Daman ", "annotation": [{"label": ["city"], "points": [{"text": "Daman", "start": 0, "end": 4}]}]}
+{"content": "Delhi ", "annotation": [{"label": ["city"], "points": [{"text": "Delhi", "start": 0, "end": 4}]}]}
+{"content": "Kavaratti ", "annotation": [{"label": ["city"], "points": [{"text": "Kavaratti", "start": 0, "end": 8}]}]}
+{"content": "Pondicherry ", "annotation": [{"label": ["city"], "points": [{"text": "Pondicherry", "start": 0, "end": 10}]}]}
+{"content": "Bengaluru ", "annotation": [{"label": ["city"], "points": [{"text": "Bengaluru", "start": 0, "end": 8}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Mumbai", "start": 0, "end": 5}]}]}
+{"content": "Imphal ", "annotation": [{"label": ["city"], "points": [{"text": "Imphal", "start": 0, "end": 5}]}]}
+{"content": "Shillong ", "annotation": [{"label": ["city"], "points": [{"text": "Shillong", "start": 0, "end": 7}]}]}
+{"content": "Aizawl ", "annotation": [{"label": ["city"], "points": [{"text": "Aizawl", "start": 0, "end": 5}]}]}
+{"content": "Kohima ", "annotation": [{"label": ["city"], "points": [{"text": "Kohima", "start": 0, "end": 5}]}]}
+{"content": "Bhubaneswar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhubaneswar", "start": 0, "end": 10}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Gangtok ", "annotation": [{"label": ["city"], "points": [{"text": "Gangtok", "start": 0, "end": 6}]}]}
+{"content": "Chennai ", "annotation": [{"label": ["city"], "points": [{"text": "Chennai", "start": 0, "end": 6}]}]}
+{"content": "Hyderabad ", "annotation": [{"label": ["city"], "points": [{"text": "Hyderabad", "start": 0, "end": 8}]}]}
+{"content": "Agartala ", "annotation": [{"label": ["city"], "points": [{"text": "Agartala", "start": 0, "end": 7}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Dehradun ", "annotation": [{"label": ["city"], "points": [{"text": "Dehradun", "start": 0, "end": 7}]}]}
+{"content": "Kolkata ", "annotation": [{"label": ["city"], "points": [{"text": "Kolkata", "start": 0, "end": 6}]}]}
+{"content": "Port Blair ", "annotation": [{"label": ["city"], "points": [{"text": "Port Blair", "start": 0, "end": 9}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Silvassa ", "annotation": [{"label": ["city"], "points": [{"text": "Silvassa", "start": 0, "end": 7}]}]}
+{"content": "Daman ", "annotation": [{"label": ["city"], "points": [{"text": "Daman", "start": 0, "end": 4}]}]}
+{"content": "Delhi ", "annotation": [{"label": ["city"], "points": [{"text": "Delhi", "start": 0, "end": 4}]}]}
+{"content": "Kavaratti ", "annotation": [{"label": ["city"], "points": [{"text": "Kavaratti", "start": 0, "end": 8}]}]}
+{"content": "Pondicherry ", "annotation": [{"label": ["city"], "points": [{"text": "Pondicherry", "start": 0, "end": 10}]}]}
+{"content": "Bengaluru ", "annotation": [{"label": ["city"], "points": [{"text": "Bengaluru", "start": 0, "end": 8}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Mumbai", "start": 0, "end": 5}]}]}
+{"content": "Imphal ", "annotation": [{"label": ["city"], "points": [{"text": "Imphal", "start": 0, "end": 5}]}]}
+{"content": "Shillong ", "annotation": [{"label": ["city"], "points": [{"text": "Shillong", "start": 0, "end": 7}]}]}
+{"content": "Aizawl ", "annotation": [{"label": ["city"], "points": [{"text": "Aizawl", "start": 0, "end": 5}]}]}
+{"content": "Kohima ", "annotation": [{"label": ["city"], "points": [{"text": "Kohima", "start": 0, "end": 5}]}]}
+{"content": "Bhubaneswar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhubaneswar", "start": 0, "end": 10}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Gangtok ", "annotation": [{"label": ["city"], "points": [{"text": "Gangtok", "start": 0, "end": 6}]}]}
+{"content": "Chennai ", "annotation": [{"label": ["city"], "points": [{"text": "Chennai", "start": 0, "end": 6}]}]}
+{"content": "Hyderabad ", "annotation": [{"label": ["city"], "points": [{"text": "Hyderabad", "start": 0, "end": 8}]}]}
+{"content": "Agartala ", "annotation": [{"label": ["city"], "points": [{"text": "Agartala", "start": 0, "end": 7}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Dehradun ", "annotation": [{"label": ["city"], "points": [{"text": "Dehradun", "start": 0, "end": 7}]}]}
+{"content": "Kolkata ", "annotation": [{"label": ["city"], "points": [{"text": "Kolkata", "start": 0, "end": 6}]}]}
+{"content": "Port Blair ", "annotation": [{"label": ["city"], "points": [{"text": "Port Blair", "start": 0, "end": 9}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Silvassa ", "annotation": [{"label": ["city"], "points": [{"text": "Silvassa", "start": 0, "end": 7}]}]}
+{"content": "Daman ", "annotation": [{"label": ["city"], "points": [{"text": "Daman", "start": 0, "end": 4}]}]}
+{"content": "Delhi ", "annotation": [{"label": ["city"], "points": [{"text": "Delhi", "start": 0, "end": 4}]}]}
+{"content": "Kavaratti ", "annotation": [{"label": ["city"], "points": [{"text": "Kavaratti", "start": 0, "end": 8}]}]}
+{"content": "Pondicherry ", "annotation": [{"label": ["city"], "points": [{"text": "Pondicherry", "start": 0, "end": 10}]}]}
+{"content": "Bengaluru ", "annotation": [{"label": ["city"], "points": [{"text": "Bengaluru", "start": 0, "end": 8}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Mumbai", "start": 0, "end": 5}]}]}
+{"content": "Imphal ", "annotation": [{"label": ["city"], "points": [{"text": "Imphal", "start": 0, "end": 5}]}]}
+{"content": "Shillong ", "annotation": [{"label": ["city"], "points": [{"text": "Shillong", "start": 0, "end": 7}]}]}
+{"content": "Aizawl ", "annotation": [{"label": ["city"], "points": [{"text": "Aizawl", "start": 0, "end": 5}]}]}
+{"content": "Kohima ", "annotation": [{"label": ["city"], "points": [{"text": "Kohima", "start": 0, "end": 5}]}]}
+{"content": "Bhubaneswar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhubaneswar", "start": 0, "end": 10}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Gangtok ", "annotation": [{"label": ["city"], "points": [{"text": "Gangtok", "start": 0, "end": 6}]}]}
+{"content": "Chennai ", "annotation": [{"label": ["city"], "points": [{"text": "Chennai", "start": 0, "end": 6}]}]}
+{"content": "Hyderabad ", "annotation": [{"label": ["city"], "points": [{"text": "Hyderabad", "start": 0, "end": 8}]}]}
+{"content": "Agartala ", "annotation": [{"label": ["city"], "points": [{"text": "Agartala", "start": 0, "end": 7}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Dehradun ", "annotation": [{"label": ["city"], "points": [{"text": "Dehradun", "start": 0, "end": 7}]}]}
+{"content": "Kolkata ", "annotation": [{"label": ["city"], "points": [{"text": "Kolkata", "start": 0, "end": 6}]}]}
+{"content": "Port Blair ", "annotation": [{"label": ["city"], "points": [{"text": "Port Blair", "start": 0, "end": 9}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Silvassa ", "annotation": [{"label": ["city"], "points": [{"text": "Silvassa", "start": 0, "end": 7}]}]}
+{"content": "Daman ", "annotation": [{"label": ["city"], "points": [{"text": "Daman", "start": 0, "end": 4}]}]}
+{"content": "Delhi ", "annotation": [{"label": ["city"], "points": [{"text": "Delhi", "start": 0, "end": 4}]}]}
+{"content": "Kavaratti ", "annotation": [{"label": ["city"], "points": [{"text": "Kavaratti", "start": 0, "end": 8}]}]}
+{"content": "Pondicherry ", "annotation": [{"label": ["city"], "points": [{"text": "Pondicherry", "start": 0, "end": 10}]}]}
+{"content": "Bengaluru ", "annotation": [{"label": ["city"], "points": [{"text": "Bengaluru", "start": 0, "end": 8}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Mumbai", "start": 0, "end": 5}]}]}
+{"content": "Imphal ", "annotation": [{"label": ["city"], "points": [{"text": "Imphal", "start": 0, "end": 5}]}]}
+{"content": "Surat ", "annotation": [{"label": ["city"], "points": [{"text": "Surat", "start": 0, "end": 4}]}]}
+{"content": "Pune ", "annotation": [{"label": ["city"], "points": [{"text": "Pune", "start": 0, "end": 3}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Kanpur ", "annotation": [{"label": ["city"], "points": [{"text": "Kanpur", "start": 0, "end": 5}]}]}
+{"content": "Nagpur ", "annotation": [{"label": ["city"], "points": [{"text": "Nagpur", "start": 0, "end": 5}]}]}
+{"content": "Indore ", "annotation": [{"label": ["city"], "points": [{"text": "Indore", "start": 0, "end": 5}]}]}
+{"content": "Thane ", "annotation": [{"label": ["city"], "points": [{"text": "Thane", "start": 0, "end": 4}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Visakhapatnam ", "annotation": [{"label": ["city"], "points": [{"text": "Visakhapatnam", "start": 0, "end": 12}]}]}
+{"content": "Pimpri & Chinchwad ", "annotation": [{"label": ["city"], "points": [{"text": "Pimpri & Chinchwad", "start": 0, "end": 17}]}]}
+{"content": "Patna ", "annotation": [{"label": ["city"], "points": [{"text": "Patna", "start": 0, "end": 4}]}]}
+{"content": "Vadodara ", "annotation": [{"label": ["city"], "points": [{"text": "Vadodara", "start": 0, "end": 7}]}]}
+{"content": "Ghaziabad ", "annotation": [{"label": ["city"], "points": [{"text": "Ghaziabad", "start": 0, "end": 8}]}]}
+{"content": "Ludhiana ", "annotation": [{"label": ["city"], "points": [{"text": "Ludhiana", "start": 0, "end": 7}]}]}
+{"content": "Agra ", "annotation": [{"label": ["city"], "points": [{"text": "Agra", "start": 0, "end": 3}]}]}
+{"content": "Nashik ", "annotation": [{"label": ["city"], "points": [{"text": "Nashik", "start": 0, "end": 5}]}]}
+{"content": "Faridabad ", "annotation": [{"label": ["city"], "points": [{"text": "Faridabad", "start": 0, "end": 8}]}]}
+{"content": "Meerut ", "annotation": [{"label": ["city"], "points": [{"text": "Meerut", "start": 0, "end": 5}]}]}
+{"content": "Rajkot ", "annotation": [{"label": ["city"], "points": [{"text": "Rajkot", "start": 0, "end": 5}]}]}
+{"content": "Kalyan & Dombivali ", "annotation": [{"label": ["city"], "points": [{"text": "Kalyan & Dombivali", "start": 0, "end": 17}]}]}
+{"content": "Vasai Virar ", "annotation": [{"label": ["city"], "points": [{"text": "Vasai Virar", "start": 0, "end": 10}]}]}
+{"content": "Varanasi ", "annotation": [{"label": ["city"], "points": [{"text": "Varanasi", "start": 0, "end": 7}]}]}
+{"content": "Srinagar ", "annotation": [{"label": ["city"], "points": [{"text": "Srinagar", "start": 0, "end": 7}]}]}
+{"content": "Aurangabad ", "annotation": [{"label": ["city"], "points": [{"text": "Aurangabad", "start": 0, "end": 9}]}]}
+{"content": "Dhanbad ", "annotation": [{"label": ["city"], "points": [{"text": "Dhanbad", "start": 0, "end": 6}]}]}
+{"content": "Amritsar ", "annotation": [{"label": ["city"], "points": [{"text": "Amritsar", "start": 0, "end": 7}]}]}
+{"content": "Navi Mumbai ", "annotation": [{"label": ["city"], "points": [{"text": "Navi Mumbai", "start": 0, "end": 10}]}]}
+{"content": "Allahabad ", "annotation": [{"label": ["city"], "points": [{"text": "Allahabad", "start": 0, "end": 8}]}]}
+{"content": "Ranchi ", "annotation": [{"label": ["city"], "points": [{"text": "Ranchi", "start": 0, "end": 5}]}]}
+{"content": "Haora ", "annotation": [{"label": ["city"], "points": [{"text": "Haora", "start": 0, "end": 4}]}]}
+{"content": "Coimbatore ", "annotation": [{"label": ["city"], "points": [{"text": "Coimbatore", "start": 0, "end": 9}]}]}
+{"content": "Jabalpur ", "annotation": [{"label": ["city"], "points": [{"text": "Jabalpur", "start": 0, "end": 7}]}]}
+{"content": "Gwalior ", "annotation": [{"label": ["city"], "points": [{"text": "Gwalior", "start": 0, "end": 6}]}]}
+{"content": "Vijayawada ", "annotation": [{"label": ["city"], "points": [{"text": "Vijayawada", "start": 0, "end": 9}]}]}
+{"content": "Jodhpur ", "annotation": [{"label": ["city"], "points": [{"text": "Jodhpur", "start": 0, "end": 6}]}]}
+{"content": "Madurai ", "annotation": [{"label": ["city"], "points": [{"text": "Madurai", "start": 0, "end": 6}]}]}
+{"content": "Raipur ", "annotation": [{"label": ["city"], "points": [{"text": "Raipur", "start": 0, "end": 5}]}]}
+{"content": "Kota ", "annotation": [{"label": ["city"], "points": [{"text": "Kota", "start": 0, "end": 3}]}]}
+{"content": "Guwahati ", "annotation": [{"label": ["city"], "points": [{"text": "Guwahati", "start": 0, "end": 7}]}]}
+{"content": "Chandigarh ", "annotation": [{"label": ["city"], "points": [{"text": "Chandigarh", "start": 0, "end": 9}]}]}
+{"content": "Solapur ", "annotation": [{"label": ["city"], "points": [{"text": "Solapur", "start": 0, "end": 6}]}]}
+{"content": "Hubli and Dharwad ", "annotation": [{"label": ["city"], "points": [{"text": "Hubli and Dharwad", "start": 0, "end": 16}]}]}
+{"content": "Bareilly ", "annotation": [{"label": ["city"], "points": [{"text": "Bareilly", "start": 0, "end": 7}]}]}
+{"content": "Moradabad ", "annotation": [{"label": ["city"], "points": [{"text": "Moradabad", "start": 0, "end": 8}]}]}
+{"content": "Mysore ", "annotation": [{"label": ["city"], "points": [{"text": "Mysore", "start": 0, "end": 5}]}]}
+{"content": "Gurgaon ", "annotation": [{"label": ["city"], "points": [{"text": "Gurgaon", "start": 0, "end": 6}]}]}
+{"content": "Aligarh ", "annotation": [{"label": ["city"], "points": [{"text": "Aligarh", "start": 0, "end": 6}]}]}
+{"content": "Jalandhar ", "annotation": [{"label": ["city"], "points": [{"text": "Jalandhar", "start": 0, "end": 8}]}]}
+{"content": "Tiruchirappalli ", "annotation": [{"label": ["city"], "points": [{"text": "Tiruchirappalli", "start": 0, "end": 14}]}]}
+{"content": "Bhubaneswar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhubaneswar", "start": 0, "end": 10}]}]}
+{"content": "Salem ", "annotation": [{"label": ["city"], "points": [{"text": "Salem", "start": 0, "end": 4}]}]}
+{"content": "Mira and Bhayander ", "annotation": [{"label": ["city"], "points": [{"text": "Mira and Bhayander", "start": 0, "end": 17}]}]}
+{"content": "Thiruvananthapuram ", "annotation": [{"label": ["city"], "points": [{"text": "Thiruvananthapuram", "start": 0, "end": 17}]}]}
+{"content": "Bhiwandi ", "annotation": [{"label": ["city"], "points": [{"text": "Bhiwandi", "start": 0, "end": 7}]}]}
+{"content": "Saharanpur ", "annotation": [{"label": ["city"], "points": [{"text": "Saharanpur", "start": 0, "end": 9}]}]}
+{"content": "Gorakhpur ", "annotation": [{"label": ["city"], "points": [{"text": "Gorakhpur", "start": 0, "end": 8}]}]}
+{"content": "Guntur ", "annotation": [{"label": ["city"], "points": [{"text": "Guntur", "start": 0, "end": 5}]}]}
+{"content": "Bikaner ", "annotation": [{"label": ["city"], "points": [{"text": "Bikaner", "start": 0, "end": 6}]}]}
+{"content": "Amravati ", "annotation": [{"label": ["city"], "points": [{"text": "Amravati", "start": 0, "end": 7}]}]}
+{"content": "Noida ", "annotation": [{"label": ["city"], "points": [{"text": "Noida", "start": 0, "end": 4}]}]}
+{"content": "Jamshedpur ", "annotation": [{"label": ["city"], "points": [{"text": "Jamshedpur", "start": 0, "end": 9}]}]}
+{"content": "Bhilai Nagar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhilai Nagar", "start": 0, "end": 11}]}]}
+{"content": "Warangal ", "annotation": [{"label": ["city"], "points": [{"text": "Warangal", "start": 0, "end": 7}]}]}
+{"content": "Cuttack ", "annotation": [{"label": ["city"], "points": [{"text": "Cuttack", "start": 0, "end": 6}]}]}
+{"content": "Firozabad ", "annotation": [{"label": ["city"], "points": [{"text": "Firozabad", "start": 0, "end": 8}]}]}
+{"content": "Kochi ", "annotation": [{"label": ["city"], "points": [{"text": "Kochi", "start": 0, "end": 4}]}]}
+{"content": "Bhavnagar ", "annotation": [{"label": ["city"], "points": [{"text": "Bhavnagar", "start": 0, "end": 8}]}]}
+{"content": "Dehradun ", "annotation": [{"label": ["city"], "points": [{"text": "Dehradun", "start": 0, "end": 7}]}]}
+{"content": "Durgapur ", "annotation": [{"label": ["city"], "points": [{"text": "Durgapur", "start": 0, "end": 7}]}]}
+{"content": "Asansol ", "annotation": [{"label": ["city"], "points": [{"text": "Asansol", "start": 0, "end": 6}]}]}
+{"content": "Nanded Waghala ", "annotation": [{"label": ["city"], "points": [{"text": "Nanded Waghala", "start": 0, "end": 13}]}]}
+{"content": "Kolapur ", "annotation": [{"label": ["city"], "points": [{"text": "Kolapur", "start": 0, "end": 6}]}]}
+{"content": "Ajmer ", "annotation": [{"label": ["city"], "points": [{"text": "Ajmer", "start": 0, "end": 4}]}]}
+{"content": "Gulbarga ", "annotation": [{"label": ["city"], "points": [{"text": "Gulbarga", "start": 0, "end": 7}]}]}
+{"content": "Jamnagar ", "annotation": [{"label": ["city"], "points": [{"text": "Jamnagar", "start": 0, "end": 7}]}]}
+{"content": "Ujjain ", "annotation": [{"label": ["city"], "points": [{"text": "Ujjain", "start": 0, "end": 5}]}]}
+{"content": "Loni ", "annotation": [{"label": ["city"], "points": [{"text": "Loni", "start": 0, "end": 3}]}]}
+{"content": "Siliguri ", "annotation": [{"label": ["city"], "points": [{"text": "Siliguri", "start": 0, "end": 7}]}]}
+{"content": "Jhansi ", "annotation": [{"label": ["city"], "points": [{"text": "Jhansi", "start": 0, "end": 5}]}]}
+{"content": "Ulhasnagar ", "annotation": [{"label": ["city"], "points": [{"text": "Ulhasnagar", "start": 0, "end": 9}]}]}
+{"content": "Nellore ", "annotation": [{"label": ["city"], "points": [{"text": "Nellore", "start": 0, "end": 6}]}]}
+{"content": "Jammu ", "annotation": [{"label": ["city"], "points": [{"text": "Jammu", "start": 0, "end": 4}]}]}
+{"content": "Sangli Miraj Kupwad ", "annotation": [{"label": ["city"], "points": [{"text": "Sangli Miraj Kupwad", "start": 0, "end": 18}]}]}
+{"content": "Belgaum ", "annotation": [{"label": ["city"], "points": [{"text": "Belgaum", "start": 0, "end": 6}]}]}
+{"content": "Mangalore ", "annotation": [{"label": ["city"], "points": [{"text": "Mangalore", "start": 0, "end": 8}]}]}
+{"content": "Ambattur ", "annotation": [{"label": ["city"], "points": [{"text": "Ambattur", "start": 0, "end": 7}]}]}
+{"content": "Tirunelveli ", "annotation": [{"label": ["city"], "points": [{"text": "Tirunelveli", "start": 0, "end": 10}]}]}
+{"content": "Malegoan ", "annotation": [{"label": ["city"], "points": [{"text": "Malegoan", "start": 0, "end": 7}]}]}
+{"content": "Gaya ", "annotation": [{"label": ["city"], "points": [{"text": "Gaya", "start": 0, "end": 3}]}]}
+{"content": "Jalgaon ", "annotation": [{"label": ["city"], "points": [{"text": "Jalgaon", "start": 0, "end": 6}]}]}
+{"content": "Udaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Udaipur", "start": 0, "end": 6}]}]}
+{"content": "Maheshtala ", "annotation": [{"label": ["city"], "points": [{"text": "Maheshtala", "start": 0, "end": 9}]}]}
+{"content": "Surat ", "annotation": [{"label": ["city"], "points": [{"text": "Surat", "start": 0, "end": 4}]}]}
+{"content": "Pune ", "annotation": [{"label": ["city"], "points": [{"text": "Pune", "start": 0, "end": 3}]}]}
+{"content": "Jaipur ", "annotation": [{"label": ["city"], "points": [{"text": "Jaipur", "start": 0, "end": 5}]}]}
+{"content": "Lucknow ", "annotation": [{"label": ["city"], "points": [{"text": "Lucknow", "start": 0, "end": 6}]}]}
+{"content": "Kanpur ", "annotation": [{"label": ["city"], "points": [{"text": "Kanpur", "start": 0, "end": 5}]}]}
+{"content": "Nagpur ", "annotation": [{"label": ["city"], "points": [{"text": "Nagpur", "start": 0, "end": 5}]}]}
+{"content": "Indore ", "annotation": [{"label": ["city"], "points": [{"text": "Indore", "start": 0, "end": 5}]}]}
+{"content": "Thane ", "annotation": [{"label": ["city"], "points": [{"text": "Thane", "start": 0, "end": 4}]}]}
+{"content": "Bhopal ", "annotation": [{"label": ["city"], "points": [{"text": "Bhopal", "start": 0, "end": 5}]}]}
+{"content": "Visakhapatnam ", "annotation": [{"label": ["city"], "points": [{"text": "Visakhapatnam", "start": 0, "end": 12}]}]}
+{"content": "Pimpri & Chinchwad ", "annotation": [{"label": ["city"], "points": [{"text": "Pimpri & Chinchwad", "start": 0, "end": 17}]}]}
+{"content": "Patna ", "annotation": [{"label": ["city"], "points": [{"text": "Patna", "start": 0, "end": 4}]}]}
+{"content": "Vadodara ", "annotation": [{"label": ["city"], "points": [{"text": "Vadodara", "start": 0, "end": 7}]}]}
+{"content": "Ghaziabad ", "annotation": [{"label": ["city"], "points": [{"text": "Ghaziabad", "start": 0, "end": 8}]}]}
+{"content": "Ludhiana ", "annotation": [{"label": ["city"], "points": [{"text": "Ludhiana", "start": 0, "end": 7}]}]}
+{"content": "Agra ", "annotation": [{"label": ["city"], "points": [{"text": "Agra", "start": 0, "end": 3}]}]}
+{"content": "Nashik ", "annotation": [{"label": ["city"], "points": [{"text": "Nashik", "start": 0, "end": 5}]}]}
+{"content": "Faridabad ", "annotation": [{"label": ["city"], "points": [{"text": "Faridabad", "start": 0, "end": 8}]}]}
+{"content": "Meerut ", "annotation": [{"label": ["city"], "points": [{"text": "Meerut", "start": 0, "end": 5}]}]}
+{"content": "Rajkot ", "annotation": [{"label": ["city"], "points": [{"text": "Rajkot", "start": 0, "end": 5}]}]}
+{"content": "Kalyan & Dombivali ", "annotation": [{"label": ["city"], "points": [{"text": "Kalyan & Dombivali", "start": 0, "end": 17}]}]}
+{"content": "Vasai Virar ", "annotation": [{"label": ["city"], "points": [{"text": "Vasai Virar", "start": 0, "end": 10}]}]}
+{"content": "# ", "annotation": [{"label": ["house Number"], "points": [{"text": "#", "start": 0, "end": 0}]}]}
+{"content": "1st ", "annotation": [{"label": ["Floor"], "points": [{"text": "1st", "start": 0, "end": 2}]}]}
+{"content": "2nd ", "annotation": [{"label": ["Floor"], "points": [{"text": "2nd", "start": 0, "end": 2}]}]}
+{"content": "3rd ", "annotation": [{"label": ["Floor"], "points": [{"text": "3rd", "start": 0, "end": 2}]}]}
+{"content": "4th ", "annotation": [{"label": ["Floor"], "points": [{"text": "4th", "start": 0, "end": 2}]}]}
+{"content": "5th ", "annotation": [{"label": ["Floor"], "points": [{"text": "5th", "start": 0, "end": 2}]}]}
+{"content": "6th ", "annotation": [{"label": ["Floor"], "points": [{"text": "6th", "start": 0, "end": 2}]}]}
+{"content": "7th ", "annotation": [{"label": ["Floor"], "points": [{"text": "7th", "start": 0, "end": 2}]}]}
+{"content": "8th ", "annotation": [{"label": ["Floor"], "points": [{"text": "8th", "start": 0, "end": 2}]}]}
+{"content": "9th ", "annotation": [{"label": ["Floor"], "points": [{"text": "9th", "start": 0, "end": 2}]}]}
+{"content": "10th ", "annotation": [{"label": ["Floor"], "points": [{"text": "10th", "start": 0, "end": 3}]}]}
+{"content": "rd ", "annotation": [{"label": ["Road"], "points": [{"text": "rd", "start": 0, "end": 1}]}]}
+{"content": "Rd ", "annotation": [{"label": ["Road"], "points": [{"text": "Rd", "start": 0, "end": 1}]}]}
+{"content": "Rd ", "annotation": [{"label": ["Road"], "points": [{"text": "Rd", "start": 0, "end": 1}]}]}
+{"content": "Rd ", "annotation": [{"label": ["Road"], "points": [{"text": "Rd", "start": 0, "end": 1}]}]}
+{"content": "rD ", "annotation": [{"label": ["Road"], "points": [{"text": "rD", "start": 0, "end": 1}]}]}
+{"content": "RD ", "annotation": [{"label": ["Road"], "points": [{"text": "RD", "start": 0, "end": 1}]}]}
+{"content": "st ", "annotation": [{"label": ["street"], "points": [{"text": "st", "start": 0, "end": 1}]}]}
+{"content": "ST ", "annotation": [{"label": ["street"], "points": [{"text": "ST", "start": 0, "end": 1}]}]}
+{"content": "St ", "annotation": [{"label": ["street"], "points": [{"text": "St", "start": 0, "end": 1}]}]}
+{"content": "sT ", "annotation": [{"label": ["street"], "points": [{"text": "sT", "start": 0, "end": 1}]}]}

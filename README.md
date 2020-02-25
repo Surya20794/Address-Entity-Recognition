@@ -8,8 +8,8 @@ SpaCy is an open-source library for advanced Natural Language Processing in Pyth
 
    SpaCy can be installed using a simple pip install. You will also need to download the language model for the language you        wish to use spaCy for.
 
-# pip install -U spacy 
-# python -m spacy download en
+pip install -U spacy 
+python -m spacy download en
 
 
 # Let’s begin!

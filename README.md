@@ -1,6 +1,32 @@
 # Address-Entity-Recognition
 
-Training spaCy NER with Custom Entities
+# spaCy for NER
+
+SpaCy is an open-source library for advanced Natural Language Processing in Python. It is designed specifically for production use and helps build applications that process and “understand” large volumes of text. It can be used to build information extraction or natural language understanding systems, or to pre-process text for deep learning. Some of the features provided by spaCy are- Tokenization, Parts-of-Speech (PoS) Tagging, Text Classification and Named Entity Recognition.SpaCy provides an exceptionally efficient statistical system for NER in python, which can assign labels to groups of tokens which are contiguous. It provides a default model which can recognize a wide range of named or numerical entities, which include person, organization, language, event etc. Apart from these default entities, spaCy also gives us the liberty to add arbitrary classes to the NER model, by training the model to update it with newer trained examples.
+# Getting Started
+# Installation
+
+   SpaCy can be installed using a simple pip install. You will also need to download the language model for the language you        wish to use spaCy for.
+
+# pip install -U spacy 
+# python -m spacy download en
+
+
+# Let’s begin!
+# Dataset
+
+The dataset which we are going to work on can be downloaded from here. We will be using the data2.csv file .
+
+# Data Preprocessing
+
+ SpaCy requires the training data to be in the the following format-
+ So we have to convert our data which is in .csv format to the above format. (There are also other forms of training data which spaCy accepts. Refer the documentation for more details.) We first drop the columns Sentence # and POS as we don’t need them and then convert the .csv file to .tsv file. Next, we have to run the script below to get the training data in .json format.(tsv_to_json.py)
+ 
+ The next step is to convert the above data into format needed by spaCy. It can be done using the following script-
+ (json_to_spacy.py)
+
+
+# Training spaCy NER with Custom Entities
 
 SpaCy NER already supports the entity types like- PERSONPeople, including fictional.NORPNationalities or religious or political groups.FACBuildings, airports, highways, bridges, etc.ORGCompanies, agencies, institutions, etc.GPECountries, cities, states, etc.
 
